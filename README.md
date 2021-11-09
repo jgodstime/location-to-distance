@@ -8,5 +8,5 @@ Create a .env file in the root directory and copy the content of .env.example in
 
 Generate the laravel project key ```php artisan key:generate```
 
-Start the server php artisan serve
+Start the server ```php artisan serve```
 
